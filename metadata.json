@@ -1,0 +1,5 @@
+{
+  "name": "Huffman Code Architect",
+  "description": "A full-stack Huffman coding generator and visualizer for data compression algorithms.",
+  "requestFramePermissions": []
+}
